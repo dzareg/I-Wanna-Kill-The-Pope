@@ -1,0 +1,46 @@
++init
+	|rInit
+	|rSoundTest
+	|rTitle
++main game
+	+Stage 1
+		|rHubRoom
+		|rCTB
+		|rDarkBlue
+		|rPDHappy
+		|rShowdown
+		|rHeavenTrap2
+		|rBestGuy1
+		|rIvan
+		|rEdge
+		|rReviveTheGuy
+		|rGuy
+		|rBoss1
+		|rGRSecret
+	+Stage 2
+		|rBestGuy2
+		|rTTT
+		|rDestination
+		|rLoveTrap
+		|rCrimson
+		|r2D
+		|rSSC
+		|rFTG
+		|rSSR2
+		|rKTG
+		|rKTGEnd
+		|rBoss2A
+		|rBoss2B
+		|rBoss2C
+		|rTestRoom
+		|rDotkidSecret
+	+Stage 3
+		|rNoesis
+		|rACSecret
+	+Stage 4
+		|rATKSecret
+	+Unused
+		|rSSR2old
+		|rYuuutu
+		|rVHSGM
+		|rGonerSecret

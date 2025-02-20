@@ -1,0 +1,6 @@
+connection=1
+closed=0
+precision=8
+background=rBoss1
+snap_x=16
+snap_y=16

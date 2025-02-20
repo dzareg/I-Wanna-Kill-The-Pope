@@ -1,0 +1,8 @@
+extension=.wav
+exists=1
+source=Contra SFX (4).wav
+kind=0
+effects=0
+volume=1
+pan=0
+preload=1

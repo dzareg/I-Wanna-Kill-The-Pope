@@ -1,0 +1,8 @@
+extension=.wav
+exists=1
+source=dfgdf.wav
+kind=0
+effects=0
+volume=0.85
+pan=0
+preload=1

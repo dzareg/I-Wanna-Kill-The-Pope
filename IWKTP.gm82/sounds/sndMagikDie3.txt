@@ -1,0 +1,8 @@
+extension=.WAV
+exists=1
+source=o ja pierdole.WAV
+kind=0
+effects=0
+volume=1
+pan=0
+preload=1

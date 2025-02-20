@@ -1,0 +1,7 @@
+sprite=sprTTT1Robok
+visible=1
+solid=0
+persistent=0
+depth=-1
+parent=TTT1GT
+mask=

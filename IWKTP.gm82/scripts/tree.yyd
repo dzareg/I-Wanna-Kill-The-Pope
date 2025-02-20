@@ -1,0 +1,70 @@
++fanctions
+	|splitobject
+	|scrScreenShake
+	|scrVisualEffect
+	|scrBossShadow
+	|scrBossIframe
+	|bossHpBar
+	|bossName
+	|drawTextOutlined
+	|LightEffect
+	|TagCheck
+	|BulletCollision
+	|scrInitSaveTexts
+	|IFrameControl
++Menu
+	|scrAchievementInit
+	|scrAchievementMenuDraw
+	|scrAchievementMenuControl
+	|scrAchievementGet
+	|scrOptionsMenuControl
+	|scrOptionsMenuDraw
+	|scrMenuControl
+	|scrGetKeyName
+	|scrMainMenu
+	|scrSaveOptions
+	|scrLoadOptions
+	|scrLoadAchievements
+	|scrSaveAchievements
++ssound
+	|ss_LoadSound
+	|ss_Init
+	|ss_Unload
+	|ss_LoopSound
+	|ss_StopSound
+	|ss_FreeSound
+	|ss_GetSoundVol
+	|ss_GetSoundPan
+	|ss_IsSoundPlaying
+	|ss_GetSoundPosition
+	|ss_GetSoundFreq
+	|ss_GetSoundLength
+	|ss_GetSoundBytesPerSecond
+	|ss_IsSoundLooping
+	|ss_IsSoundPaused
+	|ss_IsHandleValid
+	|ss_SetSoundVol
+	|ss_SetSoundPan
+	|ss_PauseSound
+	|ss_ResumeSound
+	|ss_SetSoundPosition
+	|ss_SetSoundFreq
+	|ss_PlaySound
++Player
+	|playerJump
+	|playerShoot
+	|playerVJump
+	|killPlayer
+	|loadGame
+	|saveExe
+	|saveExeItem
+	|saveGame
+	|saveGameItem
+	|saveDeathTime
+|musicFunctions
+|musicPlay
+|outsideRoom
+|scrBoss2TileChange
+|scrBoss2P2TileChange
+|SetGlobalOption
+|tempExe

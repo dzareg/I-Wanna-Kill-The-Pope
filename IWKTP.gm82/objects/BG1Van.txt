@@ -1,0 +1,7 @@
+sprite=sprBG1Van
+visible=1
+solid=0
+persistent=0
+depth=-5
+parent=playerKiller
+mask=

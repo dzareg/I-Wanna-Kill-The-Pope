@@ -1,0 +1,99 @@
++Stage 1
+	+CTB
+		|ColorPalleteCTB
+	+Dark Blue
+		|DarkBlueBackground
+		|DarkBlueTile
+	+PD Happy
+		|PDBackground
+		|PDTile
+	+Showdown
+		|ShowdownTileset
+	+Best Guy 1
+		|BG1Tileset
+		|BG1Background
+	+Ivan
+		|IvanBackground
+		|IvanTileset
+	+Heaven Trap 2
+		|HT2SmallTile
+		|HT2BigTile
+		|HT2Background
+	+Edge
+		|EdgeBackground
+		|EdgeTile1
+		|EdgeTile2
+	+Rescue The Guy
+		|RTGTile1
+		|RTGTile2
+		|RTGTile3
+		|RTGBackground
+	+Guy
+		|GuyTileset
+		|Boss1BG1
+		|GuySign
+		|GuyHole
+		|GuyBackground
+	+GR
+		|GRTileSet
++Stage 2
+	+Best Guy 2
+		|BG2StarBG
+		|BG2BG
+		|BG2WhiteBG
+	+TTT1
+		|TTTBG
+		|TTTTileset
+	+VHSGM
+		|VHSGMTileSet
+	+Crimson
+		|CrimsonBG
+		|CrimsonTile1
+		|CrimsonTile2
+	+2D
+		|TDTileSet
+		|TDBG
+	+SSR2
+		|SSR2OldTile
+		|SSR2Tile
+		|SSR2BG
+	+SSC
+		|SSCTile
+	+FTG
+		|FTGTileSet
+		|FTGDarkTile
+		|FTGBG
+	+KTG
+		|KTGBG
+		|KTGCityBG
+		|KTGEndBG
+		|KTGSideWalk
+		|KTGTileSet
+		|KTGTutorial
+	+Boss 2
+		|ContraMountains
+		|ContraBG
+		|FogBG
+		|ContraTileSet
+		|SuperMarioTileSet
+		|SuperMarioBG
+		|GhostHouseBG
+		|DeviceBG
+		|TVBG
+		|TVEffect
+		|Boss2CrimsonBG
+		|Boss2GTBG
+		|DeviceTileSet
+	+Dotkid
+		|DotkidBG
++Stage 3
+	+Attain Clarity
+		|ACBG
+		|ACTile
+	+Noesis
+		|NoesisTile
+|bacJumpThrough
+|bg_Megaman
+|bg_Tree
+|bg_space
+|AllTiles

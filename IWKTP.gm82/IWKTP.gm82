@@ -1,0 +1,23 @@
+gm82_version=5
+gameid=213769
+
+info_author=dzareg
+info_version=100
+info_information=
+
+exe_company=dzareg productions
+exe_product=happil clone
+exe_copyright=dzareg TM
+exe_description=POLSKA GÓRĄ
+exe_version=1.0.0.0
+
+has_backgrounds=1
+has_datafiles=0
+has_fonts=1
+has_objects=1
+has_paths=1
+has_scripts=1
+has_sounds=1
+has_sprites=1
+has_timelines=0
+has_triggers=0

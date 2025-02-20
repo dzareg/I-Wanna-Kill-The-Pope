@@ -1,0 +1,14 @@
++Guy
+	|SpikeUpDownPath
+	|GuyPath1
++Boss 1
+	|WillyPath
+	|MagikPath1
++Boss 2
+	|PathHammerGuy
+	|PathCirnoDango
+	|PathCrimson
++LoveTrap
+	|LoveTrapCherryPath
++SSR2
+	|SSR2CherryPath

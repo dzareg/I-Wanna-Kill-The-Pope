@@ -1,0 +1,8 @@
+extension=.wav
+exists=1
+source=glass-bottle-clink-90671.wav
+kind=0
+effects=0
+volume=0.81
+pan=0
+preload=1

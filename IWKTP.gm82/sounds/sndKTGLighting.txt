@@ -1,0 +1,8 @@
+extension=.wav
+exists=1
+source=thunder_snd.wav
+kind=0
+effects=0
+volume=1
+pan=0
+preload=1

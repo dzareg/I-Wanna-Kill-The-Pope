@@ -1,0 +1,8 @@
+extension=.wav
+exists=1
+source=fire.wav
+kind=0
+effects=0
+volume=0.78
+pan=0
+preload=1
